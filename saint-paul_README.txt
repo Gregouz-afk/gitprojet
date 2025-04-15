@@ -14,3 +14,6 @@ git commit -m "premier push mobile css"
 git push origin saint-paul
 mettre le username
 mettre le token
+ajout du lisezmoimasson.txt et le add commit push qui va avec
+modification du readme et le add commit push qui va avec
+modification du mobile.css et le add commit push qui va avec
