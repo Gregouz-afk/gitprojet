@@ -1,0 +1,16 @@
+apt update && apt upgrade
+apt install git
+git init
+cd /Documents      
+mkdir tpgit
+cd /tpgit
+git remote add origin https://github.com/Gregouz-afk/gitprojet.git
+git config user.email "greory.raffoux@efrei.net"
+git config user.name "Gregouz-afk"
+git branch Gregory
+git checkout Gregory
+git add index.html
+git commit -m "index.html"
+git push origin Gregory
+mettre le username
+mettre le token
