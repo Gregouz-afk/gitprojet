@@ -14,3 +14,6 @@ git commit -m "style.css"
 git push origin arthus
 mettre le username
 mettre le token
+git checkout master
+git merge arthus
+
