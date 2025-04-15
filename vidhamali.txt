@@ -1,0 +1,16 @@
+apt update && apt upgrade
+apt install git
+git init
+cd /Documents    
+mkdir tpgit
+cd /tpgit
+git remote add origin https://github.com/Gregouz-afk/gitprojet.git
+git config user.email "vidhamaliarthus@gmail.com"
+git config user.name "hye-t"
+git branch arthus
+git checkout arthus
+git add mobile.css
+git commit -m "style.css"
+git push origin arthus
+mettre le username
+mettre le token
