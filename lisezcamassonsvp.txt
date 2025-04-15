@@ -1,0 +1,3 @@
+Bonjour,
+Etant donné que je suis sur une version tres curieuse de kali, j'ai du utiliser des tools pour etre en root, ca posait probleme avec GIT, et je ne voyais rien dans le repository tant que je n'ajoutais rien dedans, jai du donc ajouter quelque chose dans le master AVANT la version finale, mais je l'ai supprimée directement. D'ou le mobile.css dans la branche master AVANT de mettre la version finale. Je l'ai supprimée et jai fais mes trucs sur la branche saint-paul juste dans les logs il faut ignorer cette partie.
+Merci!
