@@ -1,0 +1,32 @@
+@media screen and (max-width: 640px) {
+
+    * {
+        margin: 0;
+        padding: 0;
+    }
+    main,
+    article{
+        width: 100%;
+    }
+    body {
+        width: 100%;
+        margin: 0;
+        padding: 0;
+        display: flex;
+    }
+
+    main {
+        display: flex;
+    }
+
+    article {
+        align-items: center;
+        padding: 1em;
+    }
+
+    article img {
+        width: 80%;
+        margin: 1em auto;
+        display: block;
+    }
+}
