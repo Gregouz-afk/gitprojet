@@ -45,3 +45,6 @@ footer{
     display: flex;
     justify-content: center;
 }
+main ul{
+    padding: 5%;
+}
